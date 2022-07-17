@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int n;
-    cout<<"Enter for how many numbers you want the sum (Only even):";
+    cout<<"Enter for how many numbers you want the sum (Only odd):";
     cin>>n;
     int k = 1;
     int sum = 0;
